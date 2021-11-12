@@ -1,7 +1,7 @@
 # bokeh_birds_dashboard
 This is a project to try Bokeh for Dashboards
 
-<iframe src="/bird_dashboard.html"
+<iframe src="/dashboard.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
