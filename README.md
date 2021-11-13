@@ -16,10 +16,14 @@ I am registering [this data](https://docs.google.com/spreadsheets/d/1dENiPTJtdqO
 
 ## Jupyter Notebook
 
-
-[To run complete notebook](https://mybinder.org/v2/gh/isabelyb/bokeh_birds_dashboard/33b532b364cd93f007d6141b5b233df735b7f3f1?filepath=birds_dashboard.ipynb)
+To run the [complete notebook](https://mybinder.org/v2/gh/isabelyb/bokeh_birds_dashboard/33b532b364cd93f007d6141b5b233df735b7f3f1?filepath=birds_dashboard.ipynb)
 
 ## Issues
 
 ## References
+
+* [Bokeh documentation](http://docs.bokeh.org/en/latest/index.html)
+* [Bokeh Github repository](https://github.com/bokeh/bokeh)
+* [Pandas_Bokeh Github repository](https://github.com/PatrikHlobil/Pandas-Bokeh): Bokeh Plotting Backend for Pandas
+
 
