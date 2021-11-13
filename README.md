@@ -5,3 +5,13 @@ I am following data about fruits the birds come to eat in my window 🐦.
 ![Dashboard](dashboard.gif)
 
 
+## Requirements and Installation
+
+## Data
+
+## Jupyter Notebook
+
+## Issues
+
+## References
+
