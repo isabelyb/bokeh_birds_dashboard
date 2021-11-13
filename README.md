@@ -4,6 +4,34 @@ I am following data about fruits the birds come to eat in my window 🐦.
 
 ## Requirements and Installation
 
+#### Bokeh
+The easiest way to install Bokeh is using the Anaconda Python distribution and its included Conda package management system. To install Bokeh and its required dependencies, enter the following command at a Bash or Windows command prompt:
+```
+conda install bokeh 
+```
+To install using pip, enter the following command at a Bash or Windows command prompt:
+```
+pip install bokeh
+```
+For more information, refer to the [installation documentation](https://docs.bokeh.org/en/latest/docs/first_steps/installation.html).
+
+#### Pandas_Bokeh
+Via pip:
+```
+pip install pandas-bokeh
+```
+or conda:
+```
+conda install -c patrikhlobil pandas-bokeh
+```
+Pandas Bokeh is officially supported on Python 3.5 and above.
+
+---
+
+> Some [code](https://github.com/isabelyb/learning_bokeh) to try bokeh before start the project.
+---
+
+
 ## Data
 
 I have been collecting data from the quantity of fruit I put in my window every day. A lot of birds come to eat it and I love it!   
@@ -15,9 +43,9 @@ I am registering [this data](https://docs.google.com/spreadsheets/d/1dENiPTJtdqO
 
 ## Jupyter Notebook
 
-To run the [complete notebook](https://mybinder.org/v2/gh/isabelyb/bokeh_birds_dashboard/33b532b364cd93f007d6141b5b233df735b7f3f1?filepath=birds_dashboard.ipynb)
+📓 [Here](https://github.com/isabelyb/bokeh_birds_dashboard/blob/main/birds_dashboard.ipynb) the project Notebook.
 
-## Issues
+📓 To [run](https://mybinder.org/v2/gh/isabelyb/bokeh_birds_dashboard/33b532b364cd93f007d6141b5b233df735b7f3f1?filepath=birds_dashboard.ipynb) the complete notebook in Binder.
 
 ## References
 
